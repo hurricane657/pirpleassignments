@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>TWILIGHT: The book series</title>
+</head>
+<body>
+  <!-- start of body -->
+  <h3><center><u>TWILIGHT: My favorite book series</u></center></h3>
+<center>
+  <img src="https://www.syfy.com/sites/syfy/files/styles/1240x700_hero/public/2018/12/the-complete-twilight-saga-movie-poster.jpg" alt="twilight series" height="400"/>
+  <p><em><b>Synopsis</em></b>: It tells about a high-school student <b>Bella Swan</b>, always a bit of a misfit, doesn't expect life to change much when she moves from sunny Arizona to rainy Washington state, Forks to live with her father, <b>Chief Charlie Swan</b>. Then she meets <b>Edward Cullen</b>, a handsome but mysterious teen whose eyes seem to peer directly into her soul. Although Edward seems to be hiding a secret of his own. Will he trust Bella with it?</p>
+  <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-170215-TF_Inside_Spread12_f_r1.jpg?resize=1800,1200&w=1200" alt="bella and edward BDII" height="350"/> 
+</center>
+  <!-- left indended part of the code -->
+ <em>
+  Below is the list of some of the characters from the book:
+ <ul>
+  <li>Bella Swan</li>
+  <li>Edward Cullen, a vampire</li>
+  <li>Jacob Black, Bella's childhood friend</li>
+  <li>Alice Cullen, mate to Jasper</li>
+  <li>Kellan Lutz, mate to Rosalie</li>
+  <li>Carlisle Cullen, mate to Esme</li>
+  <li>Esme Cullen, mate to Carlisle</li>
+  <li>Rosalie Hale, mate to Emmett</li>
+  <li>Jasper Hale, mate to Alice</li>
+  <li>Charlie Swan, Bella's Father</li>
+  <li>Renee Dwyer, Bella's Mother</li>
+ </ul>
+ </em>
+  <!-- end of left indended text -->
+  <center>
+  <p><b>Have you read the books yet? Which one is your favourite, select below:</b></p>
+  <form>
+      <select>
+        <option value="Twilight">Twilight</option>
+        <option value="New Moon">New Moon</option>
+        <option value="Eclipse">Eclipse</option>
+        <option value="Breaking Dawn I">Breaking Dawn I</option>
+        <input type="submit" value="confirm">
+      </select>
+    </form>
+  <p><strong>Below is a table containing important information regarding the books:</strong></p>
+  <!-- start of table tab -->
+     <table>
+   <tr>
+   <th><u>S.No</u></th><th><u>Movie Name</u></th><th><u>Publishing Year</u></th><th><u>Audience Rating(via Google)</u></th>
+   </tr>
+    <tr>
+    <td>1</td><td>Twilight</td><td>2005</td><td>4.2/5</td></tr>
+    <tr>  <td>2</td><td>New Moon</td><td>2006</td><td>4.4/5</td> </tr>
+    <tr>  <td>3</td><td>Eclipse</td><td>2007</td><td>4.7/5</td>  </tr>
+    <tr>  <td>4</td><td>Breaking Dawn I</td><td>2008</td><td>4.5/5</td> </tr>
+    <tfoot><em> [Data gathered from Google.com] </em></tfoot>
+</table>
+     <!-- end of table tag -->
+    <p><strong>The movie rights of the book series of 4 books is brought by Paramount Pictures and is turned into a movie series of 5 movies.</strong></p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Twilight2.png" alt="movie series montage"/>
+    <p><strong>Click below for trailer of the first movie in the series, Twilight 🔻</strong></p>
+  <!-- start of iframe tag to emb an youtube video -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uxjNDE2fMjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+  <!-- end of iframe tag -->
+  <p> Below is a famous track from the series, sung by Christina Perri, featured in Breaking Dawn I and II</p>
+ <!-- start of iframe tag containing an embed audio file from soundcloud -->
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/32548575&color=%230066cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/corbel-keep" title="Corbel Keep" target="_blank" style="color: #cccccc; text-decoration: none;">Corbel Keep</a> · <a href="https://soundcloud.com/corbel-keep/christina-perri-a-thousand-10" title="Christina Perri - A thousand years - official video (subtitulado)" target="_blank" style="color: #cccccc; text-decoration: none;">Christina Perri - A thousand years - official video (subtitulado)</a></div>
+  <!-- end of the iframe tag -->
+   <!-- start of footer -->
+     <p><i>THANK YOU FOR VISITING MY SITE. I HOPE YOU LIKE IT.</i></p>
+  </center>
+  <!-- end of footer -->  
+  </body>
+</html>
